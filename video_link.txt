@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=i01lvpbNnjs
+
+To open the EER diagram in MySQL Workbench:
+Go to File → Open Model, select polyglotica_ai.mwb, then, in the polyglotica_ai tab, double-click EER Diagram.
