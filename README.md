@@ -30,6 +30,10 @@ Course project for Storing and Retrieving Data, MSc in Data Science and Advanced
 
 MySQL · SQL · ERD · triggers · window functions
 
-## Author
+## Authors
 
-Artem Polikarpov · [LinkedIn](https://www.linkedin.com/in/artem-polikarpov-068a4313) · [All projects](https://github.com/apnovaims)
+· Artem Polikarpov · [LinkedIn](https://www.linkedin.com/in/artem-polikarpov-068a4313) · [All projects](https://github.com/apnovaims)
+
+· Diogo Montenegro
+
+· Francisco Martins
